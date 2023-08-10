@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sekar 👋
 - 🔭 I’m currently studying at Sebelas Maret University
 - 📫 How to reach me: sekargestiau@student.uns.ac.id
 <!--

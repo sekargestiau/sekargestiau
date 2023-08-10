@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at Sebelas Maret University
 - 📫 How to reach me: sekargestiau@student.uns.ac.id
-
+<br>
 <p align="left">
 <a href="https://github.com/sekargestiau">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sekargestiau&layout=compact&langs_count=8&theme=algolia"/>

@@ -2,14 +2,14 @@
 <div align="center">  
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sekar-gesti-amalia-utami-5b4703232)](https://www.linkedin.com/in/sekar-gesti-amalia-utami-5b4703232) 
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:sekargestiau@student.uns.ac.id)](mailto:sekargestiau@student.uns.ac.id)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:sekargestiau@gmail.com)](mailto:sekargestiau@gmail.com)
 
 </div>
 <!--v
 - 🔭 I’m currently studying at Sebelas Maret University
 - 📫 How to reach me: sekargestiau@student.uns.ac.id-->
 <br>
-<p align="left">
+<p align="center">
 <a href="https://github.com/sekargestiau">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sekargestiau&layout=compact&langs_count=8&theme=algolia"/>
 </a>

@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Sekar 👋</h1>
+<h1 align="center">Hi👋</h1>
 <div align="center">  
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sekar-gesti-amalia-utami-5b4703232)](https://www.linkedin.com/in/sekar-gesti-amalia-utami-5b4703232) 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:sekargestiau@student.uns.ac.id)](mailto:sekargestiau@student.uns.ac.id)
 
 </div>
-
+<!--v
 - 🔭 I’m currently studying at Sebelas Maret University
-- 📫 How to reach me: sekargestiau@student.uns.ac.id
+- 📫 How to reach me: sekargestiau@student.uns.ac.id-->
 <br>
 <p align="left">
 <a href="https://github.com/sekargestiau">
